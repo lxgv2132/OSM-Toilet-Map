@@ -1,0 +1,137 @@
+{
+  "elements": [
+    {
+      "type": "node",
+      "id": 1001,
+      "lat": 52.5162,
+      "lon": 13.3777,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "yes",
+        "charge": "0.50 EUR",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1002,
+      "lat": 52.5186,
+      "lon": 13.3761,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no",
+        "opening_hours": "Mo-Su 08:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1003,
+      "lat": 52.5170,
+      "lon": 13.3888,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "yes",
+        "charge": "1.00 EUR",
+        "opening_hours": "Mo-Su 06:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1004,
+      "lat": 52.5198,
+      "lon": 13.4020,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "yes",
+        "charge": "0.70 EUR",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 09:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1005,
+      "lat": 52.5208,
+      "lon": 13.4094,
+      "tags": {
+        "amenity": "toilets",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1006,
+      "lat": 52.5218,
+      "lon": 13.4132,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no",
+        "charge": "free",
+        "opening_hours": "Mo-Su 10:00-20:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1007,
+      "lat": 52.5145,
+      "lon": 13.3905,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "yes",
+        "charge": "0.50 EUR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1008,
+      "lat": 52.5132,
+      "lon": 13.3820,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1009,
+      "lat": 52.5120,
+      "lon": 13.3950,
+      "tags": {
+        "amenity": "toilets",
+        "opening_hours": "Mo-Fr 09:00-17:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1010,
+      "lat": 52.5230,
+      "lon": 13.3680,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "yes",
+        "charge": "1.00 EUR",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1011,
+      "lat": 52.5180,
+      "lon": 13.3930,
+      "tags": {
+        "amenity": "toilets"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1012,
+      "lat": 52.5150,
+      "lon": 13.4060,
+      "tags": {
+        "amenity": "toilets",
+        "fee": "yes",
+        "charge": "0.50 EUR",
+        "opening_hours": "Mo-Su 07:00-21:00"
+      }
+    }
+  ]
+}

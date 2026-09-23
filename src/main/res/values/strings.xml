@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">OSM Toilet Map</string>
+    <string name="search_hint">Search cities, streets, places…</string>
+    <string name="table_key_fee">Fee</string>
+    <string name="table_key_charge">Charge</string>
+    <string name="table_key_opening_hours">Opening hours</string>
+    <string name="value_unknown">unknown</string>
+    <string name="status_open">Currently Open</string>
+    <string name="status_closed">Currently Closed</string>
+    <string name="status_hours_unknown">Hours Unknown</string>
+    <string name="find_shortest_route">Find Shortest Route</string>
+    <string name="prompt_tap_starting_point">Tap  on starting point to find the closest open toilet.</string>
+    <string name="prompt_select_start">Tap map, search, or tap GPS for starting point</string>
+    <string name="mode_walk">Walk</string>
+    <string name="mode_bike">Bike</string>
+    <string name="mode_drive">Drive</string>
+    <string name="reset_north">Reset orientation to north</string>
+    <string name="close_table">Close</string>
+    <string name="download_region_prompt">Download toilet data for %1$s?</string>
+    <string name="download_region_sub">Data will be stored offline</string>
+    <string name="download_action">Download</string>
+    <string name="dismiss_action">Later</string>
+</resources>
